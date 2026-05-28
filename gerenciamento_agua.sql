@@ -9,8 +9,6 @@
 
 -- Started on 2026-05-22 12:18:31
 
-CREATE DATABASE gerenciamento_agua;
-
 SET statement_timeout = 0;
 SET lock_timeout = 0;
 SET idle_in_transaction_session_timeout = 0;
